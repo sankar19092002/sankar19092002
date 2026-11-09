@@ -15,61 +15,49 @@
 </p>
 
 ---
+---
 
 ## 👨‍💻 About Me
 
 <p align="center">
-Hi! I'm <b>Siva Sankar</b>, a Computer Science Engineering graduate and aspiring Software Developer passionate about building creative and practical applications.
+  Hi! I'm <b>Siva Sankar</b>, a Computer Science Engineering graduate and aspiring Software Developer.
 </p>
 
 <p align="center">
-💻 Passionate about Software Development and Frontend Development.<br>
-🌱 Currently learning Java, Python, JavaScript and Full Stack Development.<br>
-🚀 Building real-world applications and improving my coding skills.<br>
-🗄️ Interested in Database Management and Problem Solving.<br>
-🎯 Looking for Software Developer and Associate Software Engineer opportunities.<br>
-📍 India
-</p>
-
-<h3 align="center">💡 Areas of Interest</h3>
-
-<p align="center">
-Software Development | Frontend Development | Python Development<br>
-Web Applications | Database Management | Problem Solving
-</p>
-
-<h3 align="center">🌱 Currently Learning</h3>
-
-<p align="center">
-Java | Python | HTML | CSS | JavaScript | Bootstrap | SQL | MySQL | Git & GitHub
+  💻 Passionate about Software Development and Frontend Development.<br>
+  🌱 Learning Java, Python, JavaScript and Full Stack Development.<br>
+  🚀 Building real-world applications and improving my coding skills.<br>
+  🗄️ Interested in Database Management and Problem Solving.<br>
+  🎯 Looking for Software Developer opportunities.<br>
+  📍 India
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 🗄️ Database & Technologies
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ### 📊 Python Libraries
@@ -81,65 +69,14 @@ Java | Python | HTML | CSS | JavaScript | Bootstrap | SQL | MySQL | Git & GitHub
 
 ---
 
-## 🚀 My Featured Projects
+## 📜 Certificates & Learning
 
-| S.No | Project Name | Description | Technologies | Repository |
-|:---:|---|---|---|:---:|
-| 1 | 💰 **Personal Expense Tracker** | Desktop application to record daily expenses, track spending, and analyze monthly expenses using graphical charts. | Python, Pandas, Tkinter, Matplotlib | [View Project](https://github.com/sankar19092002/Personal-Expense-Tracker) |
-| 2 | 🎬 **Netflix Clone** | Responsive streaming-platform website inspired by Netflix with a modern user interface. | HTML5, CSS3, JavaScript | [View Project](https://github.com/sankar19092002/Netflix-Clone) |
-| 3 | 📸 **Instagram Clone** | Social media interface featuring sidebar navigation, stories, posts, user profiles, and suggestions. | HTML5, CSS3, JavaScript, Font Awesome | [View Project](https://github.com/sankar19092002/Instagram-Clone) |
-| 4 | 🏦 **Banking System** | Java application for account creation, deposits, withdrawals, and balance checking using OOP concepts. | Java, OOP | [View Project](https://github.com/sankar19092002/Banking-System) |
-
----
-
-## 📚 Learning & Certifications
-
-- Java Programming
+- Java Full Stack Development – EduSkills Foundation
+- Web Development – Codec Technologies
 - Python Programming
-- Java Full Stack Development
-- Web Development
+- Java Programming
+- HTML & CSS Fundamentals
 - SQL & Database Fundamentals
-- Frontend Development
-
----
-
-## 🎯 Current Goals
-
-- [ ] Improve Data Structures and Algorithms
-- [ ] Master Java and Python Programming
-- [ ] Learn Advanced JavaScript
-- [ ] Build Full Stack Web Applications
-- [ ] Improve SQL and Database Skills
-- [ ] Contribute to Open Source Projects
-- [ ] Get an opportunity as a Software Developer
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankar19092002&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar19092002&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sankar19092002&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sankar19092002/sankar19092002/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -148,15 +85,15 @@ Java | Python | HTML | CSS | JavaScript | Bootstrap | SQL | MySQL | Git & GitHub
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sivasankar-kakumani-328783351/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ksivasankar5717@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sankar19092002">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
