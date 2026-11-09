@@ -16,27 +16,34 @@
 
 ## 👨‍💻 About Me
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
 
 ### 🎓 Profile
 
-- 🎓 Computer Science Engineering Graduate
-- 💻 Aspiring Software Developer
-- 🚀 Building Real-World Projects
-- 📍 India
+🎓 Computer Science Engineering Graduate
+
+💻 Aspiring Software Developer
+
+🚀 Building Real-World Projects
+
+📍 India
 
 </td>
 <td width="50%" align="center">
 
 ### 🌱 Currently Learning
 
-- Java Programming
-- Python Programming
-- HTML, CSS, JavaScript
-- Full Stack Development
-- SQL & MySQL
+Java Programming
+
+Python Programming
+
+HTML, CSS, JavaScript
+
+Full Stack Development
+
+SQL & MySQL
 
 </td>
 </tr>
@@ -46,20 +53,26 @@
 
 ### 💡 Areas of Interest
 
-- Software Development
-- Frontend Development
-- Python Development
-- Problem Solving
+Software Development
+
+Frontend Development
+
+Python Development
+
+Problem Solving
 
 </td>
 <td width="50%" align="center">
 
 ### 🎯 Career Goals
 
-- Software Developer
-- Frontend Developer
-- Python Developer
-- Associate Software Engineer
+Software Developer
+
+Frontend Developer
+
+Python Developer
+
+Associate Software Engineer
 
 </td>
 </tr>
