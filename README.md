@@ -150,6 +150,8 @@ Currently improving my programming skills and developing real-world projects.
 
 - 🏅 Java Full Stack Development – EduSkills Foundation
 - 🏅 Web Development – Codec Technologies
+- 🏅 Python Essentials -1 -Cisco Networking Academy
+- 🏅 Python Essentials -2 -Cisco Networking Academy
 
 </td>
 <td width="50%" valign="top">
